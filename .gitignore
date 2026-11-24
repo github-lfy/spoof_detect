@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+vendor/
+output/**/qa-*.png
+output/pdf/preview-*.png
+reference_data/*
+!reference_data/download_receipt.json
+!reference_data/rinex4_coverage_check.json
+bdsrawsubfram_message.txt
+*.pdf
+!output/**/*.pdf
+.env
+.env.*

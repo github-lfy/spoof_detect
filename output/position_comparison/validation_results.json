@@ -1,0 +1,28 @@
+[
+  {
+    "name": "Independent native RTKLIB RINEX parser and broadcast positions",
+    "ephemerides": 888,
+    "fields": 13320,
+    "positions": 3552,
+    "max_difference_m": 2.979417220073167e-07,
+    "tolerance_m": 0.001,
+    "passed": true,
+    "package": "pyrtklib==0.2.7"
+  },
+  {
+    "name": "Native RTKLIB unsigned bit extraction and signed field reconstruction",
+    "fields": 160,
+    "passed": true
+  },
+  {
+    "name": "Independent bisection and rotation-matrix almanac solution including week boundaries",
+    "cases": 48,
+    "max_difference_m": 1.0732457258468817e-07,
+    "tolerance_m": 1e-05,
+    "passed": true
+  },
+  {
+    "name": "Analytic circular reference, Kepler residual, week crossover and corrupted CRC",
+    "passed": true
+  }
+]

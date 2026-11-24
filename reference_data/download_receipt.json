@@ -1,0 +1,32 @@
+[
+  {
+    "url": "http://www.igs.gnsswhu.cn/index.php/igs/download?year=2026&id=388700",
+    "filename": "BRDM00DLR_S_20263090000_01D_MN.rnx.gz",
+    "http_response": "D:\\codex\\spoof_detect\\reference_data\\WHU_BRDM00DLR_S_20263090000_01D_MN.rnx.gz",
+    "compressed_file": "D:\\codex\\spoof_detect\\reference_data\\CLEAN_WHU_BRDM00DLR_S_20263090000_01D_MN.rnx.gz",
+    "rinex_file": "D:\\codex\\spoof_detect\\reference_data\\WHU_BRDM00DLR_S_20263090000_01D_MN.rnx",
+    "md5": "1f54ef80f7b0a5edef7dcac189a812a5",
+    "listing_md5": "1f54ef80f7b0a5edef7dcac189a812a5",
+    "sha256": "a8292fa98b19a5cef23b9270e778cbaa03bebd730a4e7d880f1fbed992b3a7ca",
+    "rinex_sha256": "a61b5f4397bef4094ae33ba850b4ce278cbbe508891bba303eeacaccadc6d43d",
+    "gzip_member_bytes": 1320407,
+    "trailing_html_bytes": 19454,
+    "gzip_integrity_valid": true,
+    "listing_md5_valid": true
+  },
+  {
+    "url": "http://www.igs.gnsswhu.cn/index.php/igs/download?year=2026&id=388693",
+    "filename": "BRDC00IGS_R_20263090000_01D_MN.rnx.gz",
+    "http_response": "D:\\codex\\spoof_detect\\reference_data\\WHU_BRDC00IGS_R_20263090000_01D_MN.rnx.gz",
+    "compressed_file": "D:\\codex\\spoof_detect\\reference_data\\CLEAN_WHU_BRDC00IGS_R_20263090000_01D_MN.rnx.gz",
+    "rinex_file": "D:\\codex\\spoof_detect\\reference_data\\WHU_BRDC00IGS_R_20263090000_01D_MN.rnx",
+    "md5": "a8090aec550a17bbcacbe8b6e37201b9",
+    "listing_md5": "a8090aec550a17bbcacbe8b6e37201b9",
+    "sha256": "70031170e655cede565677d75e228178334a41fb97b5d2131f86e945bfd4308f",
+    "rinex_sha256": "81f86b0042eb7357beae2c1b0a5099639b2e7369f675e32804126e475130e480",
+    "gzip_member_bytes": 1257738,
+    "trailing_html_bytes": 19454,
+    "gzip_integrity_valid": true,
+    "listing_md5_valid": true
+  }
+]
